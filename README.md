@@ -1,3 +1,2 @@
-# VIN-lookup
-Programme python qui vous donne quelques informations sur votre véhicule grâce à son VIN.
-⚠️ Installez les modules requests et beautifulsoup4 avec pip avant de lançer le programme.
+Pour le lançer, téléchargez le fichier "[vinlookup.py](https://github.com/Ucodedev/VIN-lookup/blob/main/vinlookup.py)" ou lancez le projet sur Colab :
+<a href="https://colab.research.google.com/drive/1w2qkC1QZWHVlzyUgoyjD32ZWeNLAvnZR?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="45"></a> .
