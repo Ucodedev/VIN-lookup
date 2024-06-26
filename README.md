@@ -1,2 +1,1 @@
-Pour le lançer, téléchargez le fichier "[vinlookup.py](https://github.com/Ucodedev/VIN-lookup/blob/main/vinlookup.py)" ou lancez le projet sur Colab :
-<a href="https://colab.research.google.com/drive/1w2qkC1QZWHVlzyUgoyjD32ZWeNLAvnZR?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="45"></a> .
+Pour le lançer, téléchargez le fichier "[vinlookup.py](https://github.com/Ucodedev/VIN-lookup/blob/main/vinlookup.py)"
